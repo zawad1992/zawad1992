@@ -43,10 +43,30 @@
     <ul>
         <li> 🛠️ <b>Experience</b>: </li>
         <ul>
-            <li><b>Asst. Manager, Payment Development Division at Adventure Dhaka Ltd. (Mar 2023 - Present)</b>: Leading software project plans, requirement analysis, complex coding, and solution development. Expert in software architecture, database design, and project management.</li>
-            <li><b>Asst. Manager, Application Development at Pharma Solutions Bangladesh Ltd. (Nov 2017 - Feb 2023)</b>: Focused on software project execution, documentation, and enhancing operational efficiency.</li>
-            <li><b>Sr. Software Engineer at ADVANCE BUSINESS SOLUTIONS'N SUPPORT LTD (Mar 2017 - Oct 2017)</b>: Expertise in team leading, project management, and software blueprint and database designing.</li>
-            <li><b>Software Engineer at INFORMATION ENTERTAINMENT AND COMMUNICATIONS LTD (Feb 2015 - Feb 2017)</b>: Responsible for programming, designing, and problem-solving in software development.</li>
+            <li>
+              <b>Asst. Manager, Payment Development Division at Adventure Dhaka Ltd. (Mar 2023 - Present)</b>: 
+              <ul>
+                <li>Leading software project plans, requirement analysis, complex coding, and solution development.</li>
+                <li>Expert in software architecture, database design, and project management.</li>
+              </ul>
+            </li>
+            <li>
+              <b>Asst. Manager, Application Development at Pharma Solutions Bangladesh Ltd. (Nov 2017 - Feb 2023)</b>: 
+              <ul>
+                <li>Focused on software project execution, documentation, and enhancing operational efficiency.</li>
+                <li>Specializing in the Development and Advancement of Complex Healthcare Solutions.</li>
+              </ul>
+            </li>
+            <li><b>Sr. Software Engineer at ADVANCE BUSINESS SOLUTIONS'N SUPPORT LTD (Mar 2017 - Oct 2017)</b>: 
+              <ul>
+                <li>Expertise in team leading, project management, and software blueprint and database designing.</li>
+              </ul>
+            </li>
+            <li><b>Software Engineer at INFORMATION ENTERTAINMENT AND COMMUNICATIONS LTD (Feb 2015 - Feb 2017)</b>: 
+              <ul>
+                <li>Responsible for programming, designing, and problem-solving in software development.</li>
+              </ul>
+            </li>
         </ul>
      </ul>
 </div>
