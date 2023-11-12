@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Zawadul, a passionate software engineer with over 8+ years of experience in developing, testing, and implementing a diverse range of applications for industries like Global OTA, healthcare, and manufacturing. I'm skilled in ensuring 24x7 software availability and maintaining high performance in all software application environments.
+## I'm Zawadul, a passionate software engineer with over 8+ years of experience in developing, testing, and implementing a diverse range of applications for industries like Global OTA, Healthcare, Financial Organization and Manufacturing. I'm skilled in ensuring 24x7 software availability and maintaining high performance in all software application environments.
 
 <!--- snake -->
 <div align="center">
