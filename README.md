@@ -171,15 +171,15 @@
 ## GitHub Stats 📈 : 
 <br>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zawad1992&show_icons=true&count_private=true" alt="hasibulhasan442" width="280" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zawad1992" alt="hasibulhasan442" width="280" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zawad1992&show_icons=true&locale=en&layout=compact" alt="hasibulhasan442" width="260" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zawad1992&show_icons=true&count_private=true" alt="hasibulhasan442" width="380" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zawad1992" alt="hasibulhasan442" width="380" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zawad1992&show_icons=true&locale=en&layout=compact" alt="hasibulhasan442" width="360" />
 </p>
 
 ## GitHub Thropies 🏆 :
 <br>
 <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=zawad1992" alt="hasibulhasan442" width="400" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=zawad1992" alt="hasibulhasan442" width="800" />
 </p>
 
 <!--
