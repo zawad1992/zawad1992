@@ -132,11 +132,12 @@
             </tr>
             <tr><th align="left" colspan="6">Mobile App Development</th></tr>
             <tr>
+                <td>Android</td>
+                <td>⭐⭐⭐⭐</td>
                 <td>IONIC</td>
                 <td>⭐⭐⭐⭐⭐</td>
                 <td>Flutter</td>
                 <td>⭐</td>
-                <td colspan="2"></td>
             </tr>
             <tr><th align="left" colspan="6">Programming</th></tr>
             <tr>
