@@ -11,7 +11,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Confusion is part of Programming 😵</h2></summary>
   </ul>
 </div>
 
@@ -28,9 +28,9 @@
           <li> 💬 <b>Ask me about</b>: Any aspect of software engineering, from requirement analysis to project management and coding in various programming languages. </li>
           <li> 📫 <b>How to reach me</b>: 
               <ul>
-                <li>[Linkedin](https://www.linkedin.com/in/zawad1992/) </li>
-                <li>[Facebook](https://www.facebook.com/zawad1992) </li>
-                <li>[Email](zawad1992@gmail.com) </li>
+                  <li><a href="https://www.linkedin.com/in/zawad1992/" target="_blank">Linkedin</a></li>
+                  <li><a href="https://www.facebook.com/zawad1992" target="_blank">Facebook</a></li>
+                  <li><a href="mailto:zawad1992@gmail.com">Email</a></li>
               </ul>
           </li>
           <li> 😄 <b>Pronouns</b>: He/Him </li>
