@@ -192,9 +192,9 @@
 ## GitHub Stats 📈 : 
 <br>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zawad1992&show_icons=true&count_private=true" alt="hasibulhasan442" width="380" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zawad1992" alt="hasibulhasan442" width="380" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zawad1992&show_icons=true&locale=en&layout=compact" alt="hasibulhasan442" width="360" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zawad1992&show_icons=true&count_private=true" alt="zawad1992" width="380" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zawad1992" alt="zawad1992" width="380" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zawad1992&show_icons=true&locale=en&layout=compact" alt="zawad1992" width="360" />
 </p>
 
 ## GitHub Thropies 🏆 :
