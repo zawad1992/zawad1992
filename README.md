@@ -117,6 +117,8 @@
                 <td>⭐⭐⭐⭐⭐</td>
                 <td>Angular</td>
                 <td>⭐⭐⭐⭐</td>
+                <td>TypeScript</td>
+                <td>⭐⭐⭐</td>
             </tr>
             <tr><th align="left" colspan="6">Backend Development</th></tr>
             <tr>
