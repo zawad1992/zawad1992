@@ -101,19 +101,19 @@
                 <td>⭐⭐⭐⭐⭐</td>
                 <td>CSS</td>
                 <td>⭐⭐⭐⭐</td>
-                <td>AngularJS</td>
+                <td>JavaScript</td>
                 <td>⭐⭐⭐⭐⭐</td>
             </tr>
             <tr>
-                <td>JavaScript</td>
+                <td>jQuery</td>
                 <td>⭐⭐⭐⭐⭐</td>
                 <td>Ajax</td>
                 <td>⭐⭐⭐⭐⭐</td>
-                <td>jQuery</td>
+                <td>JSON</td>
                 <td>⭐⭐⭐⭐⭐</td>
             </tr>
             <tr>
-                <td>JSON</td>
+                <td>AngularJS</td>
                 <td>⭐⭐⭐⭐⭐</td>
                 <td>Angular</td>
                 <td>⭐⭐⭐⭐</td>
