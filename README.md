@@ -20,7 +20,7 @@
     <ul>
         <li> 😎 <b>About Me</b>:  </li>
         <ul>
-          <li> 🔭 <b>I’m currently working on</b>: Advanced software development projects in the Global OTA, healthcare, and manufacturing industries, focusing on robust application design and 24x7 software availability. </li>
+          <li> 🔭 <b>I’m currently working on</b>: Advanced software development projects in the OTT, Global OTA, Healthcare and Manufacturing industries, focusing on robust application design and 24x7 software availability. </li>
           <li> 🌱 <b>I’m currently learning</b>: GCP, AWS, Advanced techniques in Big Data Analysis and expanding my knowledge in the latest frontend and backend technologies. </li>
           <li> 👯 <b>I’m looking to collaborate on</b>: Innovative software development projects, particularly those involving cutting-edge technologies in web and mobile application development. </li>
           <li> 🤔 <b>I’m looking for help with</b>: Deepening my understanding of cloud computing and scalable architecture designs. </li>
@@ -42,7 +42,15 @@
         <li> 🛠️ <b>Experience</b>: </li>
         <ul>
             <li>
-              <b>Asst. Manager, Payment Development Division at Adventure Dhaka Ltd. (Mar 2023 - Present)</b>: 
+              <b>Head of Development, at Nexdecade Technology ( Pvt ) Ltd. (Mar 2024 - Present)</b>: 
+              <ul>
+                <li>Leading software project plans, requirement analysis, complex coding, and solution development.</li>
+                <li>Expert in software architecture, database design, and project management.</li>
+                <li>Responsible for maintaining the availability of 24/7 OTT support and service.
+              </ul>
+            </li>
+            <li>
+              <b>Asst. Manager, Payment Development Division at Adventure Dhaka Ltd. (Mar 2023 - Feb 2024)</b>: 
               <ul>
                 <li>Leading software project plans, requirement analysis, complex coding, and solution development.</li>
                 <li>Expert in software architecture, database design, and project management.</li>
