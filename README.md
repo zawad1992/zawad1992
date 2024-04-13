@@ -42,7 +42,7 @@
         <li> 🛠️ <b>Experience</b>: </li>
         <ul>
             <li>
-              <b>Head of Development, at Nexdecade Technology ( Pvt ) Ltd. (Mar 2024 - Present)</b>: 
+              <b>Head of Development, at Nexdecade Technology (Pvt) Ltd. (Mar 2024 - Present)</b>: 
               <ul>
                 <li>Leading software project plans, requirement analysis, complex coding, and solution development.</li>
                 <li>Expert in software architecture, database design, and project management.</li>
