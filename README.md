@@ -99,7 +99,72 @@
             </tr>
         </thead>
         <tbody>
-            <tr><th align="left" colspan="6">Frontend Development</th></tr>
+            <tr><th align="left" colspan="6">Backend Development</th></tr>
+            <tr>
+                <td>PHP</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>Laravel</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>CodeIgniter</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>CakePHP</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>C#.NET</td>
+                <td>⭐⭐⭐</td>
+                <td>ASP .NET</td>
+                <td>⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>.NET Core</td>
+                <td>⭐⭐</td>
+                <td>JAVA Swing</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>JAVA Servlet</td>
+                <td>⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Java Spring</td>
+                <td>⭐⭐⭐</td>
+                <td>NodeJS</td>
+                <td>⭐⭐⭐</td>
+                <td colspan="2"></td>
+            </tr>
+            <tr><th align="left" colspan="6">Programming</th></tr>
+            <tr>
+                <td>C</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>C++</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                <td>C#</td>
+                <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>JAVA</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>Python</td>
+                <td>⭐⭐⭐</td>
+                <td colspan="2"></td>
+            </tr>
+            <tr><th align="left" colspan="6">DevOps, Cloud & Databases</th></tr>
+            <tr>
+                <td>Docker</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>Kubernetes</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>GCP</td>
+                <td>⭐</td>                
+            </tr>
+            <tr>
+                <td>MongoDB</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>MySQL & PostgreSQL</td>
+                <td>⭐⭐⭐</td>
+                <td>SQL Server</td>
+                <td>⭐⭐⭐</td>                
+            </tr>
+            <tr><th align="left" colspan="6">Frontend & Mobile App Development</th></tr>
             <tr>
                 <td>HTML</td>
                 <td>⭐⭐⭐⭐⭐</td>
@@ -123,40 +188,7 @@
                 <td>⭐⭐⭐⭐</td>
                 <td>Vue.js</td>
                 <td>⭐⭐⭐</td>
-            </tr>
-            <tr><th align="left" colspan="6">Backend Development</th></tr>
-            <tr>
-                <td>PHP</td>
-                <td>⭐⭐⭐⭐⭐</td>
-                <td>Laravel</td>
-                <td>⭐⭐⭐⭐⭐</td>
-                <td>CodeIgniter</td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>CakePHP</td>
-                <td>⭐⭐⭐⭐⭐</td>
-                <td>C#.NET</td>
-                <td>⭐⭐⭐</td>
-                <td>ASP .NET</td>
-                <td>⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>.NET Core</td>
-                <td>⭐⭐⭐</td>
-                <td>JAVA Swing</td>
-                <td>⭐⭐⭐⭐⭐</td>
-                <td>JAVA Servlet</td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>Java Spring</td>
-                <td>⭐⭐⭐</td>
-                <td>NodeJS</td>
-                <td>⭐⭐⭐</td>
-                <td colspan="2"></td>
-            </tr>
-            <tr><th align="left" colspan="6">Mobile App Development</th></tr>
+            </tr>            
             <tr>
                 <td>Android</td>
                 <td>⭐⭐</td>
@@ -164,32 +196,15 @@
                 <td>⭐⭐⭐⭐⭐</td>
                 <td>Flutter</td>
                 <td>⭐</td>
-            </tr>
-            <tr><th align="left" colspan="6">Programming</th></tr>
-            <tr>
-                <td>C</td>
-                <td>⭐⭐⭐⭐⭐</td>
-                <td>C++</td>
-                <td>⭐⭐⭐⭐⭐</td>
-                <td>C#</td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
-            <tr>
-                <td>JAVA</td>
-                <td>⭐⭐⭐⭐</td>
-                <td>Python</td>
-                <td>⭐⭐</td>
-                <td colspan="2"></td>
-            </tr>
+            </tr>            
             <tr><th align="left" colspan="6">Other Skills</th></tr>
             <tr>
                 <td>Big Data Analysis</td>
                 <td>⭐⭐⭐</td>
                 <td>Unity Game Development</td>
                 <td>⭐</td>
-                <td>Database Management</td>
-                <td>⭐⭐⭐⭐⭐</td>
-            </tr>
+                <td colspan="2"></td>
+            </tr>            
         </tbody>
     </table>
 </div>
