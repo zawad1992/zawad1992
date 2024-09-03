@@ -159,7 +159,7 @@
             <tr><th align="left" colspan="6">Mobile App Development</th></tr>
             <tr>
                 <td>Android</td>
-                <td>⭐⭐⭐⭐</td>
+                <td>⭐⭐</td>
                 <td>IONIC</td>
                 <td>⭐⭐⭐⭐⭐</td>
                 <td>Flutter</td>
