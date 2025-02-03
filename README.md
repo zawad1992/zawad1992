@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Zawadul, a passionate software engineer with over 9 years of experience in developing, testing, and implementing a diverse range of applications for industries like OTT, Global OTA, Healthcare, Financial Organization and Manufacturing. I'm skilled in ensuring 24x7 software availability and maintaining high performance in all software application environments.
+## I'm Zawadul, a passionate software engineer with over 10 years of experience in developing, testing, and implementing a diverse range of applications for industries like OTT, Global OTA, Healthcare, Financial Organization and Manufacturing. I'm skilled in ensuring 24x7 software availability and maintaining high performance in all software application environments.
 
 <!--- snake -->
 <!--
@@ -42,7 +42,13 @@
         <li> 🛠️ <b>Experience</b>: </li>
         <ul>
             <li>
-              <b>Head of Development, at Nexdecade Technology (Pvt) Ltd. (Mar 2024 - Present)</b>: 
+              <b>Software Engineer IV, at Techzu Ichicode Pte Ltd. (December 2024 - Present)</b>: 
+              <ul>
+                <li> To Be updated. </li>
+              </ul>
+            </li>
+            <li>
+              <b>Head of Development, at Nexdecade Technology (Pvt) Ltd. (Mar 2024 - December 2024)</b>: 
               <ul>
                 <li> Lead the development of OTT solutions using Spring Boot. </li>
                 <li> Implemented VMS, HRM solutions using Laravel, MySQL, SOAP and REST APIs, reducing API response times by 20%. </li>
