@@ -32,7 +32,6 @@
                   <li><a href="mailto:zawad1992@gmail.com">Email</a></li>
               </ul>
           </li>
-          <li> 😄 <b>Pronouns</b>: He/Him </li>
           <li> ⚡ <b>Fun fact</b>: When I'm not coding, I enjoy exploring the latest trends in AI, experimenting with new tech gadgets also trying to test delicious spicy food 😅. </li>
         </ul>
     </ul>
