@@ -115,8 +115,8 @@ timeline
     
     2024-Present : Software Engineer IV
                  : Techzu Ichicode Pte Ltd
-                 : 🚀 Next-Gen Solutions
-                 : 🌐 International Projects
+                 : 🚀 Multiple ERP Solutions
+                 : 🌐 Gateway of Asia Projects
 ```
 
 </div>
@@ -592,7 +592,7 @@ Cloud Native:      ████████████ 60%
 <td>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zawad1992)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://github.com/zawad1992)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://zawadulkawum.com/)
 
 *Code repositories & projects*
 
