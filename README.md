@@ -115,8 +115,9 @@ timeline
     
     2024-Present : Software Engineer IV
                  : Techzu Ichicode Pte Ltd
-                 : 🚀 Multiple ERP Solutions
-                 : 🌐 Gateway of Asia Projects
+                 : 🚀 Aircon ERP Platform
+                 : 🌍 Gateway of Asia
+                 : 🌐 Multiple ERP Projects
 ```
 
 </div>
@@ -196,6 +197,197 @@ const techStack = {
   architecture: ["Microservices", "Event-driven", "API Gateway"]
 };
 ```
+
+</details>
+
+### 💳 **Asst. Manager, Payment Development** - *Adventure Dhaka Ltd.* `(Mar 2023 - Feb 2024)`
+
+<div align="left">
+
+[![Payment Scale](https://img.shields.io/badge/Payment%20Scale-1M%2B%20Daily%20Transactions-28a745?style=for-the-badge&logo=credit-card&logoColor=white)](https://github.com/zawad1992)
+[![Global Reach](https://img.shields.io/badge/Global%20Reach-4%20Countries-17a2b8?style=for-the-badge&logo=globe&logoColor=white)](https://github.com/zawad1992)
+
+</div>
+
+<details>
+<summary><strong>🌍 Global Payment Platform Architecture & Results</strong></summary>
+
+**🏗️ System Design & Leadership:**
+- **Designed entire payment ecosystem** handling **1M+ daily transactions**
+- **Led development team** for global airline and hotel booking platform
+- **Coordinated with overseas teams** managing cross-border collaboration
+- **Defined sprint planning** based on international requirements
+
+**🛠️ Technical Implementation:**
+- 💳 **Global Payment Platform** integrating multiple worldwide gateways
+- ✈️ **NDC Airlines Project** using Laravel, MySQL, and REST APIs
+- 🔄 **Microservices migration** for enhanced scalability and performance
+- 🌐 **Multi-country integration** across Philippines, Korea, Japan, and India
+
+**📊 Impact Metrics:**
+```bash
+┌─ GLOBAL PAYMENT IMPACT ────────────────────┐
+│                                            │
+│  Daily Volume:   ▓▓▓▓▓▓▓▓▓▓ 1M+ Transactions │
+│  Countries:      ▓▓▓▓▓▓▓▓▓▓ 4 Global Markets │
+│  Architecture:   ▓▓▓▓▓▓▓▓▓▓ Microservices    │
+│  Uptime:         ▓▓▓▓▓▓▓▓▓▓ 99.9% SLA        │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+**🛠️ Technology Stack:**
+```typescript
+const paymentTechStack = {
+  backend: ["Spring Boot", "Laravel", "MySQL"],
+  processing: ["Apache Kafka", "ELK Stack"],
+  architecture: ["Microservices", "Docker containers"],
+  integration: ["Multiple Payment Gateways", "NDC APIs"],
+  monitoring: ["Real-time analytics", "Performance tracking"]
+};
+```
+
+</details>
+
+### 🏥 **Asst. Manager, Application Development** - *Pharma Solutions Bangladesh* `(Nov 2017 - Feb 2023)`
+
+<div align="left">
+
+[![Healthcare Scale](https://img.shields.io/badge/Healthcare%20Scale-10K%2B%20Clients-6f42c1?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/zawad1992)
+[![Automation](https://img.shields.io/badge/Automation-100%25%20Process-fd7e14?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/zawad1992)
+
+</div>
+
+<details>
+<summary><strong>🏥 Healthcare Technology Leadership & Automation</strong></summary>
+
+**📱 Enterprise Application Portfolio:**
+- 📲 **Order Management System** - Android, Laravel, C#, ASP.NET, SQL Server (**800+ field users**)
+- 🏪 **Chemist Ordering Platform** - Android, Laravel, MySQL (**10,000+ clients**)
+- 🏥 **Patient Management Portal** - CakePHP, MySQL with FEFO inventory logic (**5,000+ invoices**)
+- 🌐 **Global Health Care Platform** - Laravel, VueJS, MySQL (**500+ clients**)
+
+**🤖 Process Automation Systems:**
+- 🔄 **Complete ERP automation** with 24/7 support for eZrx System
+- 📦 **Promo Material Management** using Laravel and MySQL
+- 🏭 **Damage/Expiry Management** across 17 branches (**10,000+ customers**)
+- 🛡️ **Quality Management System** - CAPA, adverse events, incident management
+- 🌡️ **Temperature Monitoring** - C#, Socket.io, Redis, Laravel, MongoDB
+- 👥 **HRM System** - Complete HR automation (recruitment, leave, attendance, billing)
+
+**📊 Automation Impact:**
+```bash
+┌─ HEALTHCARE AUTOMATION RESULTS ────────────┐
+│                                            │
+│  Process Auto:   ▓▓▓▓▓▓▓▓▓▓ 100% ERP Orders  │
+│  Manual Reduce:  ▓▓▓▓▓▓▓▓▓▓ 50% Effort Cut   │
+│  Branch Cover:   ▓▓▓▓▓▓▓▓▓▓ 20+ Locations    │
+│  Field Users:    ▓▓▓▓▓▓▓▓▓▓ 800+ Mobile Apps  │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+**🛠️ Healthcare Tech Stack:**
+```typescript
+const healthcareTech = {
+  backend: ["Laravel", "CakePHP", "C#", "ASP.NET"],
+  frontend: ["VueJS", "Android", "Web Applications"],
+  databases: ["MySQL", "SQL Server", "MongoDB", "Redis"],
+  integrations: ["ERP Systems", "IoT Sensors", "Real-time Monitoring"],
+  automation: ["Order Processing", "Inventory Management", "HR Workflows"]
+};
+```
+
+</details>
+
+### 🎓 **Sr. Software Engineer** - *Advance Business Solutions* `(Mar 2017 - Oct 2017)`
+
+<div align="left">
+
+[![ERP Solutions](https://img.shields.io/badge/ERP%20Solutions-50%2B%20Clients-20c997?style=for-the-badge&logo=building&logoColor=white)](https://github.com/zawad1992)
+[![Performance](https://img.shields.io/badge/Performance-20%25%20Improvement-e83e8c?style=for-the-badge&logo=trending-up&logoColor=white)](https://github.com/zawad1992)
+
+</div>
+
+<details>
+<summary><strong>🏢 ERP Solutions Development & Optimization</strong></summary>
+
+**🏢 Business Solutions Development:**
+- **Business & Education ERP** using CakePHP and MySQL
+- **Requirement analysis** and tailored solution delivery for **50+ clients**
+- **Performance optimization** achieving **10% faster project delivery**
+- **Team mentoring** and cross-functional collaboration
+
+**📊 Business Impact:**
+```bash
+┌─ ERP SOLUTIONS IMPACT ─────────────────────┐
+│                                            │
+│  Client Base:    ▓▓▓▓▓▓▓▓▓▓ 50+ Businesses   │
+│  Delivery Speed: ▓▓▓▓▓▓▓▓▓▓ 10% Faster       │
+│  Bug Reduction:  ▓▓▓▓▓▓▓▓▓▓ 20% Less Issues  │
+│  Team Growth:    ▓▓▓▓▓▓▓▓▓▓ Junior Dev Train │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+**🏆 Key Achievements:**
+- Enhanced system responsiveness across all client implementations
+- **20% reduction in bug-related downtime** through proactive error handling
+- Successful mentoring of junior developers with measurable skill improvement
+- Improved operational efficiency for business and education sectors
+
+</details>
+
+### 💻 **Software Engineer** - *Information Entertainment & Communications* `(Feb 2015 - Feb 2017)`
+
+<div align="left">
+
+[![Government Systems](https://img.shields.io/badge/Government%20Systems-10M%2B%20Users-ffc107?style=for-the-badge&logo=landmark&logoColor=black)](https://github.com/zawad1992)
+[![Banking Solutions](https://img.shields.io/badge/Banking%20Solutions-10K%2B%20Daily-dc3545?style=for-the-badge&logo=university&logoColor=white)](https://github.com/zawad1992)
+
+</div>
+
+<details>
+<summary><strong>🏛️ Government & Banking Systems Development</strong></summary>
+
+**🏛️ Government Project Portfolio:**
+- 🏛️ **PMIS for Ministry of Planning** - CakePHP, MySQL (project monitoring & inspections)
+- 🏛️ **Bangladesh Parliament MIS** - Secure session records and document management
+- 🏛️ **Government Retirement Portal** - Laravel, MySQL (**10,000+ retired personnel**)
+
+**🏦 Banking & Financial Solutions:**
+- 🏦 **Mobile Banking Backend API** - Spring Boot, MongoDB (**10M+ customers**)
+- 📞 **Banking CRM System** - Laravel, MySQL (**10K+ daily service requests**)
+- 💼 **Custom client applications** - CakePHP, CodeIgniter, Spring Boot, C# (**10+ clients**)
+
+**📊 Large-Scale Impact:**
+```bash
+┌─ GOVERNMENT & BANKING IMPACT ──────────────┐
+│                                            │
+│  Banking Users:  ▓▓▓▓▓▓▓▓▓▓ 10M+ Customers   │
+│  Daily Requests: ▓▓▓▓▓▓▓▓▓▓ 10K+ CRM Issues  │
+│  Gov Personnel:  ▓▓▓▓▓▓▓▓▓▓ 10K+ Retirement  │
+│  Client Systems: ▓▓▓▓▓▓▓▓▓▓ 10+ Custom Apps  │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+**🛠️ Government & Banking Tech:**
+```typescript
+const govBankingTech = {
+  backend: ["Spring Boot", "Laravel", "CakePHP", "CodeIgniter"],
+  databases: ["MongoDB", "MySQL", "Secure Storage"],
+  architecture: ["REST APIs", "Microservices", "Secure Systems"],
+  scale: ["10M+ users", "High availability", "Government grade security"],
+  domains: ["Government digitization", "Banking solutions", "Public services"]
+};
+```
+
+**🏆 Legacy & Impact:**
+- Delivered systems serving **10M+ banking customers**
+- Built solutions handling **10K+ daily service requests**
+- Significantly improved operational efficiency for government processes
+- Created secure, scalable platforms for critical national infrastructure
 
 </details>
 
@@ -461,7 +653,7 @@ AWS:  ████████ 40% (Learning)
 ┌─ 📈 CAREER STATISTICS ───────────────────────────────────────┐
 │                                                              │
 │  👨‍💼 LEADERSHIP EXPERIENCE                                    │
-│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 7+ Years           │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 10+ Years           │
 │                                                              │
 │  👥 TEAM MEMBERS MANAGED                                     │
 │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 53 Developers       │
