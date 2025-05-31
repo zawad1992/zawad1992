@@ -15,7 +15,7 @@
 ```
 
 <div align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=888888&width=700&lines=Currently+building+next-gen+enterprise+solutions;Optimizing+systems+for+millions+of+users;Leading+international+development+teams;Exploring+cloud-native+architectures" alt="Current Status" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=888888&width=700&lines=Currently+building+Aircon-ERP+and+Gateway-of-Asia+solutions;Optimizing+systems+for+millions+of+users;Leading+international+development+teams;Exploring+cloud-native+architectures" alt="Current Status" />
 </div>
 
 ---
