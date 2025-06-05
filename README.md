@@ -364,15 +364,15 @@ timeline
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zawad1992&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00D4AA&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zawad1992&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4078c0&icon_color=6cc644&text_color=333333" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawad1992&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawad1992&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4078c0&text_color=333333" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zawad1992&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B35&fire=00D4AA&currStreakLabel=FF6B35" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zawad1992&theme=default&hide_border=true&background=ffffff&ring=4078c0&fire=6cc644&currStreakLabel=4078c0" alt="GitHub Streak" />
 
 </div>
 
