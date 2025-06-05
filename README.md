@@ -135,89 +135,163 @@ timeline
 
 </div>
 
+<div align="center">
 <table>
+<thead>
 <tr>
-<td width="50%">
-
-### 🔥 **Backend Mastery**
-
-| Tech | Proficiency | Years |
-|:-----|:------------|:------|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | 🟧🟧🟧🟧🟧 | 10+ |
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | 🟧🟧🟧🟧🟧 | 8+ |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) | 🟧🟧🟧🟧⬜ | 5+ |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | 🟧🟧🟧⬜⬜ | 5+ |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | 🟧🟧🟧🟧⬜ | 7+ |
-| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | 🟧🟧🟧⬜⬜ | 4+ |
-
-</td>
-<td width="50%">
-
-### 🎨 **Frontend Magic**
-
-| Tech | Proficiency | Years |
-|:-----|:------------|:------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | 🟧🟧🟧🟧🟧 | 10+ |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | 🟧🟧🟧⬜⬜ | 4+ |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | 🟧🟧🟧🟧⬜ | 3+ |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | 🟧🟧🟧🟧🟧 | 10+ |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | 🟧🟧🟧⬜⬜ | 10+ |
-| ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) | 🟧🟧🟧🟧🟧 | 8+ |
-
-</td>
+<th>💻 Tech</th>
+<th>🔥 Proficiency</th>
+<th>⏱️ Years</th>
+<th>💻 Tech</th>
+<th>🔥 Proficiency</th>
+<th>⏱️ Years</th>
+</tr>
+</thead>
+<tbody>
+<tr><th align="left" colspan="6">🔥 Backend Mastery</th></tr>
+<tr>
+<td><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"></td>
+<td>🟧🟧🟧🟧🟧</td>
+<td>10+</td>
+<td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"></td>
+<td>🟧🟧🟧🟧🟧</td>
+<td>8+</td>
 </tr>
 <tr>
-<td width="50%">
-
-### 📱 **Mobile Development**
-
-| Tech | Proficiency | Years |
-|:-----|:------------|:------|
-| ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 🟧🟧🟧⬜⬜ | 6+ |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | 🟧⬜⬜⬜⬜ | 2+ |
-| ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) | 🟧🟧🟧⬜⬜ | 3+ |
-
-</td>
-<td width="50%">
-
-### 🗄️ **Database Wizardry**
-
-| Tech | Proficiency | Years |
-|:-----|:------------|:------|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | 🟧🟧🟧🟧🟧 | 8+ |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | 🟧🟧🟧🟧🟧 | 10+ |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | 🟧🟧🟧⬜⬜ | 5+ |
-| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | 🟧🟧🟧🟧⬜ | 6+ |
-| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) | 🟧🟧🟧⬜⬜ | 5+ |
-
-</td>
+<td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"></td>
+<td>🟧🟧🟧🟧⬜</td>
+<td>5+</td>
+<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>5+</td>
 </tr>
+<tr>
+<td><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"></td>
+<td>🟧🟧🟧🟧⬜</td>
+<td>7+</td>
+<td><img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js"></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>4+</td>
+</tr>
+<tr><th align="left" colspan="6">🎨 Frontend Magic</th></tr>
+<tr>
+<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></td>
+<td>🟧🟧🟧🟧🟧</td>
+<td>10+</td>
+<td><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>4+</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"></td>
+<td>🟧🟧🟧🟧⬜</td>
+<td>3+</td>
+<td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"></td>
+<td>🟧🟧🟧🟧🟧</td>
+<td>10+</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>10+</td>
+<td><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery"></td>
+<td>🟧🟧🟧🟧🟧</td>
+<td>8+</td>
+</tr>
+<tr><th align="left" colspan="6">📱 Mobile Development</th></tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android"></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>6+</td>
+<td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"></td>
+<td>🟧⬜⬜⬜⬜</td>
+<td>2+</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white" alt="Ionic"></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>3+</td>
+<td colspan="3"></td>
+</tr>
+<tr><th align="left" colspan="6">🗄️ Database Wizardry</th></tr>
+<tr>
+<td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"></td>
+<td>🟧🟧🟧🟧🟧</td>
+<td>8+</td>
+<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"></td>
+<td>🟧🟧🟧🟧🟧</td>
+<td>10+</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>5+</td>
+<td><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"></td>
+<td>🟧🟧🟧🟧⬜</td>
+<td>6+</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>5+</td>
+<td colspan="3"></td>
+</tr>
+<tr><th align="left" colspan="6">☁️ Cloud & DevOps Power</th></tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"></td>
+<td>🟧🟧🟧🟧⬜</td>
+<td>5+</td>
+<td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"></td>
+<td>🟧🟧🟧🟧⬜</td>
+<td>4+</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
+<td>🟧🟧⬜⬜⬜</td>
+<td>2+</td>
+<td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"></td>
+<td>🟧⬜⬜⬜⬜</td>
+<td>2+</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Apache Kafka"></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>3+</td>
+<td colspan="3"></td>
+</tr>
+<tr><th align="left" colspan="6">📊 Leadership & Architecture Skills</th></tr>
+<tr>
+<td><strong>🏗️ Backend Development</strong></td>
+<td>🟧🟧🟧🟧🟧</td>
+<td>10+ years</td>
+<td><strong>👥 Team Leadership</strong></td>
+<td>🟧🟧🟧🟧🟧</td>
+<td>7+ years</td>
+</tr>
+<tr>
+<td><strong>🗄️ Database Management</strong></td>
+<td>🟧🟧🟧🟧⬜</td>
+<td>10+ years</td>
+<td><strong>🎨 Frontend Development</strong></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>8+ years</td>
+</tr>
+<tr>
+<td><strong>☁️ Cloud & DevOps</strong></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>5+ years</td>
+<td><strong>📱 Mobile Development</strong></td>
+<td>🟧🟧🟧⬜⬜</td>
+<td>6+ years</td>
+</tr>
+<tr>
+<td><strong>🏗️ System Architecture</strong></td>
+<td>🟧🟧🟧🟧⬜</td>
+<td>8+ years</td>
+<td colspan="3"></td>
+</tr>
+</tbody>
 </table>
-
-### ☁️ **Cloud & DevOps Power**
-
-| Technology | Proficiency | Years | Primary Use |
-|:-----------|:------------|:------|:------------|
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🟧🟧🟧🟧⬜ | 5+ | Containerization |
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | 🟧🟧🟧🟧⬜ | 4+ | Orchestration |
-| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) | 🟧🟧⬜⬜⬜ | 2+ | Cloud Services |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | 🟧⬜⬜⬜⬜ | 2+ | Cloud Infrastructure |
-| ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) | 🟧🟧🟧⬜⬜ | 3+ | Event Streaming |
-
-### 📊 **Skills Proficiency Matrix**
-
-<div align="left">
-
-| 💪 **Skill Category** | 🔥 **Progress** | 📅 **Experience** |
-|:----------------------|:----------------|:-------------------|
-| 🏗️ **Backend Development** | 🟧🟧🟧🟧🟧 | 10+ years |
-| 👥 **Team Leadership** | 🟧🟧🟧🟧🟧 | 7+ years |
-| 🗄️ **Database Management** | 🟧🟧🟧🟧⬜ | 10+ years |
-| 🎨 **Frontend Development** | 🟧🟧🟧⬜⬜ | 8+ years |
-| ☁️ **Cloud & DevOps** | 🟧🟧🟧⬜⬜ | 5+ years |
-| 📱 **Mobile Development** | 🟧🟧🟧⬜⬜ | 6+ years |
-| 🏗️ **System Architecture** | 🟧🟧🟧🟧⬜ | 8+ years |
-
 </div>
 
 ---
