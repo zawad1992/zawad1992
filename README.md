@@ -166,6 +166,8 @@ timeline
 
 </td>
 </tr>
+</table>
+<table>
 <tr>
 <td width="50%">
 
@@ -380,7 +382,7 @@ timeline
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zawad1992&theme=onedark&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=zawad1992&theme=onelight&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
