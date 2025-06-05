@@ -259,11 +259,26 @@ timeline
 <td>3+</td>
 <td colspan="3"></td>
 </tr>
-<tr><th align="left" colspan="6">📊 Leadership & Architecture Skills</th></tr>
+</tbody>
+</table>
+
+### 📊 **Skills Proficiency Matrix**
+
+<table>
+<thead>
+<tr>
+<th>💪 Skill Category</th>
+<th>🔥 Progress</th>
+<th>📅 Experience</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td><strong>🏗️ Backend Development</strong></td>
 <td>🟧🟧🟧🟧🟧</td>
 <td>10+ years</td>
+</tr>
+<tr>
 <td><strong>👥 Team Leadership</strong></td>
 <td>🟧🟧🟧🟧🟧</td>
 <td>7+ years</td>
@@ -272,6 +287,8 @@ timeline
 <td><strong>🗄️ Database Management</strong></td>
 <td>🟧🟧🟧🟧⬜</td>
 <td>10+ years</td>
+</tr>
+<tr>
 <td><strong>🎨 Frontend Development</strong></td>
 <td>🟧🟧🟧⬜⬜</td>
 <td>8+ years</td>
@@ -280,6 +297,8 @@ timeline
 <td><strong>☁️ Cloud & DevOps</strong></td>
 <td>🟧🟧🟧⬜⬜</td>
 <td>5+ years</td>
+</tr>
+<tr>
 <td><strong>📱 Mobile Development</strong></td>
 <td>🟧🟧🟧⬜⬜</td>
 <td>6+ years</td>
@@ -288,7 +307,6 @@ timeline
 <td><strong>🏗️ System Architecture</strong></td>
 <td>🟧🟧🟧🟧⬜</td>
 <td>8+ years</td>
-<td colspan="3"></td>
 </tr>
 </tbody>
 </table>
