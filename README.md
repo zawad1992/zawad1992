@@ -58,14 +58,14 @@ const zawad = {
 
 ### 🔥 **Quick Stats**
 
-| Metric | Progress | Value |
-|:-------|:---------|:------|
-| 🎯 **Projects Delivered** | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 100+ |
-| 👥 **Developers Led** | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 53 |
-| 🌍 **Daily Users Impact** | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 10M+ |
-| ⚡ **Performance Gains** | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 30% |
-| 🛡️ **System Uptime** | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 99.9% |
-| 💰 **Cost Optimization** | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 20% |
+| Metric | Value |
+|:-------|:------|
+| 🎯 **Projects Delivered** | 100+ |
+| 👥 **Developers Led** | 53 |
+| 🌍 **Daily Users Impact** | 10M+ |
+| ⚡ **Performance Gains** | 30% |
+| 🛡️ **System Uptime** | 99.9% |
+| 💰 **Cost Optimization** | 20% |
 
 ### 🚀 **Currently Learning**
 - ☁️ Advanced Cloud Platforms (GCP, AWS)
@@ -135,50 +135,65 @@ timeline
 
 </div>
 
-<div align="center">
-
-## 🛠️ **Tech Arsenal - My Superpower Stack**
-
-</div>
+<table>
+<tr>
+<td width="50%">
 
 ### 🔥 **Backend Mastery**
 
-| Technology | Proficiency | Years | Primary Use |
-|:-----------|:------------|:------|:------------|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 10+ | Web Development, APIs |
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 8+ | Enterprise Applications |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ | 5+ | Microservices, APIs |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 5+ | Enterprise Systems |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ | 7+ | Desktop Apps, APIs |
-| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ | 4+ | Real-time Applications |
+| Tech | Proficiency | Years |
+|:-----|:------------|:------|
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 10+ |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 8+ |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ | 5+ |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 5+ |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ | 7+ |
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ | 4+ |
+
+</td>
+<td width="50%">
 
 ### 🎨 **Frontend Magic**
 
-| Technology | Proficiency | Years | Primary Use |
-|:-----------|:------------|:------|:------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 10+ | Interactive UIs, SPAs |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 4+ | Modern Web Apps |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ | 3+ | Enterprise Frontends |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 10+ | Web Structure |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ | 10+ | Styling, Animations |
+| Tech | Proficiency | Years |
+|:-----|:------------|:------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 10+ |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 4+ |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ | 3+ |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 10+ |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ | 10+ |
+| ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 8+ |
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📱 **Mobile Development**
 
-| Technology | Proficiency | Years | Primary Use |
-|:-----------|:------------|:------|:------------|
-| ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 6+ | Native Mobile Apps |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ | 2+ | Cross-platform Apps |
-| ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ | 3+ | Hybrid Mobile Apps |
+| Tech | Proficiency | Years |
+|:-----|:------------|:------|
+| ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 6+ |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ | 2+ |
+| ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ | 3+ |
+| ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) | 🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜ | 2+ |
+
+</td>
+<td width="50%">
 
 ### 🗄️ **Database Wizardry**
 
-| Technology | Proficiency | Years | Primary Use |
-|:-----------|:------------|:------|:------------|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 8+ | NoSQL, Big Data |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 10+ | Relational Databases |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 5+ | Advanced SQL Features |
-| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ | 6+ | Caching, Sessions |
-| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 5+ | Enterprise Databases |
+| Tech | Proficiency | Years |
+|:-----|:------------|:------|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 8+ |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 10+ |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 5+ |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ | 6+ |
+| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 5+ |
+
+</td>
+</tr>
+</table>
 
 ### ☁️ **Cloud & DevOps Power**
 
