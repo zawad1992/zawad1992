@@ -136,6 +136,9 @@ timeline
 </div>
 
 <div align="left">
+
+### 🔥 **Tech Mastery**
+
 <table>
 <thead>
 <tr>
