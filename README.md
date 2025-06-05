@@ -176,7 +176,6 @@ timeline
 | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ | 6+ |
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ | 2+ |
 | ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ | 3+ |
-| ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) | 🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜ | 2+ |
 
 </td>
 <td width="50%">
@@ -207,7 +206,7 @@ timeline
 
 ### 📊 **Skills Proficiency Matrix**
 
-<div align="center">
+<div align="left">
 
 | 💪 **Skill Category** | 🔥 **Progress** | 📅 **Experience** |
 |:----------------------|:----------------|:-------------------|
