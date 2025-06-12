@@ -353,13 +353,13 @@ timeline
 <summary><b>🎬 Click to see my Leadership Impact!</b></summary>
 
 **🎯 Leadership Achievements:**
-- 🌟 Successfully led **53 international developers** across multiple time zones
+- 🌟 Successfully led **53 developers** on different stack
 - 📈 Implemented agile methodologies resulting in **25% faster delivery**
 - 🏆 Achieved **30% performance improvement** through architectural optimization
 - 💰 Reduced infrastructure costs by **20%** via strategic cloud optimization
 
 **🛠️ Technical Innovations:**
-- 🎬 **OTT Streaming Platform** - Built with Spring Boot, handling millions of concurrent users
+- 🎬 **OTT Streaming Platform** - Lead on Toffee & T Sports Platform, Built with Spring Boot, handling millions of concurrent users
 - 📱 **WebRTC Video Calling** - Real-time communication with HD video/audio support
 - 🏢 **Enterprise VMS & HRM** - Complete workforce management solution
 - ⚡ **API Gateway Optimization** - Achieved sub-200ms response times
@@ -370,7 +370,6 @@ timeline
 🚀 Performance Boost: +30% system efficiency
 💰 Cost Savings: -20% infrastructure costs
 ⚡ API Speed: -20% response time
-🌍 Global Reach: 4+ countries served
 ```
 
 </details>
@@ -406,8 +405,6 @@ timeline
 💳 Daily Transactions: 1,000,000+
 🌍 Countries Integrated: 4
 ⚡ Payment Success Rate: 99.8%
-🛡️ Security Compliance: PCI DSS Level 1
-💰 Revenue Processed: $50M+ annually
 ```
 
 </details>
