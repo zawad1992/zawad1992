@@ -1,614 +1,101 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> **Hey there! I'm Zawadul Kawum** 
-## 🚀 Senior Software Engineer & Tech Leader Extraordinaire
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&multiline=true&width=800&height=100&lines=🔥+Building+Scalable+Software+Solutions;⚡+10%2B+Years+of+Technical+Excellence;🌟+Leading+53%2B+Developer+Teams;🚀+1M%2B+Daily+Transactions+%7C+Full-Stack+Expert)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SOFTWARE%20ENGINEER%20IV&fontSize=40&fontColor=fff&animation=twinkling)
-
-</div>
-
-<div align="center">
-
-### 💫 **Currently Crafting Digital Magic at Techzu Ichicode Pte Ltd**
-
-<img src="https://img.shields.io/badge/🎯_ROLE-Software_Engineer_IV-FF6B35?style=for-the-badge&labelColor=1a1a2e&logoColor=white" />
-<img src="https://img.shields.io/badge/👥_TEAM-53_Developers-00D4AA?style=for-the-badge&labelColor=1a1a2e&logoColor=white" />
-<img src="https://img.shields.io/badge/⚡_EXPERIENCE-10%2B_Years-FF3B30?style=for-the-badge&labelColor=1a1a2e&logoColor=white" />
-<img src="https://img.shields.io/badge/🌍_IMPACT-1M%2B_Daily_Users-7209B7?style=for-the-badge&labelColor=1a1a2e&logoColor=white" />
-
-</div>
-
----
-
-## 🎨 **About Me - The Developer Behind the Code**
-
-<table>
-<tr>
-<td width="50%">
-
-```javascript
-const zawad = {
-    name: "Zawadul Kawum",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    role: "Software Engineer IV",
-    company: "Techzu Ichicode Pte Ltd",
-    experience: "10+ years",
-    
-    passions: [
-        "🏗️ System Architecture",
-        "👥 Team Leadership", 
-        "⚡ Performance Optimization",
-        "🌐 Cloud Technologies",
-        "🤖 Process Automation"
-    ],
-    
-    currentMission: "Building next-gen ERP solutions",
-    lifePhilosophy: "Code with passion, lead with purpose! 🚀"
-};
-```
-
-</td>
-<td width="50%">
-
-### 🔥 **Quick Stats**
-
-| Metric | Value |
-|:-------|:------|
-| 🎯 **Projects Delivered** | 100+ |
-| 👥 **Developers Led** | 53 |
-| 🌍 **Daily Users Impact** | 10M+ |
-| ⚡ **Performance Gains** | 30% |
-| 🛡️ **System Uptime** | 99.9% |
-| 💰 **Cost Optimization** | 20% |
-
-### 🚀 **Currently Learning**
-- ☁️ Advanced Cloud Platforms (GCP, AWS)
-- 📊 Big Data Analytics & ML
-- 🏗️ Advanced System Architecture
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🎢 **My Epic Career Journey**
-
-</div>
-
-<div align="center">
-
-```mermaid
-timeline
-    title 🚀 Career Evolution Timeline
-    
-    2015-2017 : 💻 Software Engineer
-              : Information Entertainment & Communications
-              : 🏛️ Government Systems (10M+ users)
-              : 🏦 Banking Solutions (10K+ requests/day)
-    
-    2017 : ⭐ Sr. Software Engineer
-         : Advance Business Solutions
-         : 🏢 ERP Solutions (50+ clients)
-         : ⚡ 20% Performance Boost
-    
-    2017-2023 : 🎖️ Asst. Manager
-              : Pharma Solutions Bangladesh
-              : 🤖 100% Process Automation
-              : 📱 800+ Mobile Users
-              : 🏥 10K+ Healthcare Clients
-    
-    2023-2024 : 💳 Payment Development Manager
-              : Adventure Dhaka Ltd
-              : 🌍 Global Payment Platform
-              : 💰 1M+ Daily Transactions
-              : ✈️ NDC Airlines Integration
-    
-    2024 : 🏆 Head of Development
-         : Nexdecade Technology
-         : 👥 53 Developer Team
-         : 🎬 OTT Platform
-         : 📱 WebRTC Applications
-    
-    2024-Present : 🚀 Software Engineer IV
-                 : Techzu Ichicode Pte Ltd
-                 : 🌟 Aircon ERP Platform
-                 : 🌍 Gateway of Asia
-                 : 🔥 Multiple ERP Projects
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ **Tech Arsenal - My Superpower Stack**
-
-</div>
-
-<div align="left">
-
-### 🔥 **Tech Mastery**
-
-<table>
-<thead>
-<tr>
-<th>💻 Tech</th>
-<th>🔥 Proficiency</th>
-<th>⏱️ Years</th>
-<th>💻 Tech</th>
-<th>🔥 Proficiency</th>
-<th>⏱️ Years</th>
-</tr>
-</thead>
-<tbody>
-<tr><th align="left" colspan="6">🔥 Backend Mastery</th></tr>
-<tr>
-<td><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"></td>
-<td>🟧🟧🟧🟧🟧</td>
-<td>10+</td>
-<td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"></td>
-<td>🟧🟧🟧🟧🟧</td>
-<td>8+</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"></td>
-<td>🟧🟧🟧🟧⬜</td>
-<td>5+</td>
-<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>5+</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"></td>
-<td>🟧🟧🟧🟧⬜</td>
-<td>7+</td>
-<td><img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js"></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>4+</td>
-</tr>
-<tr><th align="left" colspan="6">🎨 Frontend Magic</th></tr>
-<tr>
-<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></td>
-<td>🟧🟧🟧🟧🟧</td>
-<td>10+</td>
-<td><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>4+</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"></td>
-<td>🟧🟧🟧🟧⬜</td>
-<td>3+</td>
-<td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"></td>
-<td>🟧🟧🟧🟧🟧</td>
-<td>10+</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>10+</td>
-<td><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery"></td>
-<td>🟧🟧🟧🟧🟧</td>
-<td>8+</td>
-</tr>
-<tr><th align="left" colspan="6">📱 Mobile Development</th></tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android"></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>6+</td>
-<td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"></td>
-<td>🟧⬜⬜⬜⬜</td>
-<td>2+</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white" alt="Ionic"></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>3+</td>
-<td colspan="3"></td>
-</tr>
-<tr><th align="left" colspan="6">🗄️ Database Wizardry</th></tr>
-<tr>
-<td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"></td>
-<td>🟧🟧🟧🟧🟧</td>
-<td>8+</td>
-<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"></td>
-<td>🟧🟧🟧🟧🟧</td>
-<td>10+</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>5+</td>
-<td><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"></td>
-<td>🟧🟧🟧🟧⬜</td>
-<td>6+</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>5+</td>
-<td colspan="3"></td>
-</tr>
-<tr><th align="left" colspan="6">☁️ Cloud & DevOps Power</th></tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"></td>
-<td>🟧🟧🟧🟧⬜</td>
-<td>5+</td>
-<td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"></td>
-<td>🟧🟧🟧🟧⬜</td>
-<td>4+</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"></td>
-<td>🟧🟧⬜⬜⬜</td>
-<td>2+</td>
-<td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"></td>
-<td>🟧⬜⬜⬜⬜</td>
-<td>2+</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Apache Kafka"></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>3+</td>
-<td colspan="3"></td>
-</tr>
-</tbody>
-</table>
-
-### 📊 **Skills Proficiency Matrix**
-
-<table>
-<thead>
-<tr>
-<th>💪 Skill Category</th>
-<th>🔥 Progress</th>
-<th>📅 Experience</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>🏗️ Backend Development</strong></td>
-<td>🟧🟧🟧🟧🟧</td>
-<td>10+ years</td>
-</tr>
-<tr>
-<td><strong>👥 Team Leadership</strong></td>
-<td>🟧🟧🟧🟧🟧</td>
-<td>7+ years</td>
-</tr>
-<tr>
-<td><strong>🗄️ Database Management</strong></td>
-<td>🟧🟧🟧🟧⬜</td>
-<td>10+ years</td>
-</tr>
-<tr>
-<td><strong>🎨 Frontend Development</strong></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>8+ years</td>
-</tr>
-<tr>
-<td><strong>☁️ Cloud & DevOps</strong></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>5+ years</td>
-</tr>
-<tr>
-<td><strong>📱 Mobile Development</strong></td>
-<td>🟧🟧🟧⬜⬜</td>
-<td>6+ years</td>
-</tr>
-<tr>
-<td><strong>🏗️ System Architecture</strong></td>
-<td>🟧🟧🟧🟧⬜</td>
-<td>8+ years</td>
-</tr>
-</tbody>
-</table>
-</div>
-
----
-
-<div align="center">
-
-## 🎯 **Career Highlights & Epic Wins**
-
-</div>
-
-### 🚀 **Current Role: Software Engineer IV** - *Techzu Ichicode Pte Ltd* `(Dec 2024 - Present)`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎯_Mission-Advanced_Software_Development-FF6B35?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🔥_Focus-System_Architecture_Design-00D4AA?style=for-the-badge&labelColor=1a1a2e" />
-
-</div>
-
-**🌟 What I'm Building:**
-- 🏗️ Advanced system architecture design & implementation
-- 🔧 Cross-platform solution development for global markets
-- ⚡ Performance optimization for enterprise-scale applications
-- 👨‍🏫 Technical mentoring and knowledge sharing across teams
-
----
-
-### 🏆 **Head of Development** - *Nexdecade Technology* `(Mar 2024 - Dec 2024)`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/👥_Team_Size-53_Developers-7209B7?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🚀_Projects-OTT_Platform_+_WebRTC-FF3B30?style=for-the-badge&labelColor=1a1a2e" />
-
-</div>
-
-<details>
-<summary><b>🎬 Click to see my Leadership Impact!</b></summary>
-
-**🎯 Leadership Achievements:**
-- 🌟 Successfully led **53 developers** on different stack
-- 📈 Implemented agile methodologies resulting in **25% faster delivery**
-- 🏆 Achieved **30% performance improvement** through architectural optimization
-- 💰 Reduced infrastructure costs by **20%** via strategic cloud optimization
-
-**🛠️ Technical Innovations:**
-- 🎬 **OTT Streaming Platform** - Lead on Toffee & T Sports Platform, Built with Spring Boot, handling millions of concurrent users
-- 📱 **WebRTC Video Calling** - Real-time communication with HD video/audio support
-- 🏢 **Enterprise VMS & HRM** - Complete workforce management solution
-- ⚡ **API Gateway Optimization** - Achieved sub-200ms response times
-
-**📊 Impact Numbers:**
-```
-👥 Team Members Managed: 53 developers
-🚀 Performance Boost: +30% system efficiency
-💰 Cost Savings: -20% infrastructure costs
-⚡ API Speed: -20% response time
-```
-
-</details>
-
----
-
-### 💳 **Payment Development Manager** - *Adventure Dhaka Ltd* `(Mar 2023 - Feb 2024)`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/💰_Daily_Volume-1M%2B_Transactions-00D4AA?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🌍_Global_Reach-4_Countries-FF6B35?style=for-the-badge&labelColor=1a1a2e" />
-
-</div>
-
-<details>
-<summary><b>💳 Global Payment Empire I Built!</b></summary>
-
-**🌍 Global Payment Architecture:**
-- 💳 Designed & built payment ecosystem processing **1M+ daily transactions**
-- ✈️ **NDC Airlines Integration** - Seamless booking & payment for international flights
-- 🏨 **Global Hotel Booking Platform** - Multi-currency, multi-gateway support
-- 🔄 **Microservices Migration** - Transformed monolith to scalable architecture
-
-**🌐 International Integration:**
-- 🇵🇭 Philippines payment gateways
-- 🇰🇷 Korean financial systems
-- 🇯🇵 Japanese payment processors
-- 🇮🇳 Indian banking integrations
-
-**📊 Performance Metrics:**
-```
-💳 Daily Transactions: 1,000,000+
-🌍 Countries Integrated: 4
-⚡ Payment Success Rate: 99.8%
-```
-
-</details>
-
----
-
-### 🏥 **Healthcare Tech Manager** - *Pharma Solutions Bangladesh* `(Nov 2017 - Feb 2023)`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🏥_Healthcare_Clients-10K%2B-7209B7?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🤖_Automation-100%25_Process-FF3B30?style=for-the-badge&labelColor=1a1a2e" />
-
-</div>
-
-<details>
-<summary><b>🏥 Healthcare Revolution I Led!</b></summary>
-
-**📱 Healthcare App Portfolio:**
-- 📲 **Order Management System** - 800+ field users, real-time inventory tracking
-- 🏪 **Chemist Digital Platform** - 10,000+ pharmacy clients, automated ordering
-- 🏥 **Patient Management Portal** - FEFO inventory logic, 5,000+ daily invoices
-- 🌐 **Global Healthcare Platform** - Multi-language support, 500+ international clients
-
-**🤖 Automation Superpowers:**
-- 🔄 **100% ERP Automation** - Eliminated manual processes across 20+ branches
-- 📦 **Smart Inventory Management** - Real-time tracking with expiry alerts
-- 🌡️ **IoT Temperature Monitoring** - C#, Socket.io, real-time alerts
-- 👥 **Complete HRM Automation** - Recruitment to payroll, fully automated
-
-**📊 Healthcare Impact:**
-```
-🏥 Healthcare Clients: 10,000+
-📱 Mobile App Users: 800+
-🏭 Branches Automated: 20+
-💊 Daily Orders Processed: 5,000+
-🤖 Manual Work Eliminated: 100%
-```
-
-</details>
-
----
-
-<div align="center">
-
-## 📊 **GitHub Stats - My Coding Journey**
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zawad1992&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=ffffff&title_color=4078c0&icon_color=6cc644&text_color=333333" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawad1992&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4078c0&text_color=333333" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zawad1992&theme=default&hide_border=true&background=ffffff&ring=4078c0&fire=6cc644&currStreakLabel=4078c0" alt="GitHub Streak" />
-
-</div>
-
-### 🏆 **GitHub Achievements Gallery**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zawad1992&theme=onelight&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 **Future Goals & Learning Roadmap**
-
-</div>
-
-### 🎯 **2025 Mission Plan**
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((🎯 2025 Goals))
-    ☁️ Cloud Mastery
-      GCP Professional
-      AWS Solutions Architect
-      Azure Fundamentals
-    📊 Data & AI
-      Big Data Analytics
-      Machine Learning
-      Real-time Processing
-    👥 Leadership
-      100+ Team Management
-      International Teams
-      Technical Mentoring
-    🚀 Innovation
-      Startup Advisory
-      Open Source
-      Tech Speaking
-```
-
-</div>
-
-### 📚 **Learning Journey**
-
-<div align="center">
-
-| 🎯 **Goal** | 📈 **Progress** | 🎯 **Target** |
-|:------------|:----------------|:---------------|
-| ☁️ **GCP Professional Certification** | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜ | June 2025 |
-| 🔧 **AWS Solutions Architect** | 🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜ | Sep 2025 |
-| 📊 **Big Data Analytics** | 🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜ | Dec 2025 |
-| 👥 **100+ Team Leadership** | 🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜ | 2026 |
-| 🤖 **AI/ML Integration** | 🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜ | 2026 |
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 **Let's Connect & Build Amazing Things!**
-
-</div>
-
-<div align="center">
-
-### 📬 **Hit Me Up - I'm Always Excited to Chat!**
-
-[![Email](https://img.shields.io/badge/📧_Email-zawad1992@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:zawad1992@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/zawad1992/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/zawad1992)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Check_My_Work-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000)](https://zawadulkawum.com/)
-[![Facebook](https://img.shields.io/badge/🔗_Facebook-Stay_Connected-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000)](https://www.facebook.com/zawad1992)
-
-</div>
-
-### 💬 **What Gets Me Excited to Talk About:**
-
-<div align="center">
-
-[![System Architecture](https://img.shields.io/badge/🏗️_System_Architecture-Let's_Design!-00BCD4?style=flat-square&logoColor=white&labelColor=000)](https://github.com/zawad1992)
-[![Team Leadership](https://img.shields.io/badge/👥_Team_Leadership-Share_Experiences-4CAF50?style=flat-square&logoColor=white&labelColor=000)](https://github.com/zawad1992)
-[![Performance](https://img.shields.io/badge/⚡_Performance_Optimization-Speed_Matters-E91E63?style=flat-square&logoColor=white&labelColor=000)](https://github.com/zawad1992)
-[![Cloud Tech](https://img.shields.io/badge/☁️_Cloud_Technologies-Future_is_Cloud-FF9800?style=flat-square&logoColor=white&labelColor=000)](https://github.com/zawad1992)
-[![Startups](https://img.shields.io/badge/🚀_Startup_Mentoring-Building_Dreams-9C27B0?style=flat-square&logoColor=white&labelColor=000)](https://github.com/zawad1992)
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 **Fun Facts & Personal Touch**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 **When I'm Not Coding...**
-- 🎯 **Unity Game Development** (weekend warrior!)
-- 🎨 **UI/UX Design** exploration and prototyping
-- 📚 **Tech Blogging** about my engineering adventures
-- 🤖 **IoT Tinkering** with Arduino and Raspberry Pi
-- 🎵 **Music Production** (yes, I make beats!)
-
-</td>
-<td width="50%">
-
-### 🌟 **My Developer Philosophy**
-```typescript
-const myPhilosophy = {
-    codeQuality: "Clean, readable, maintainable",
-    teamwork: "Collaboration over competition",
-    learning: "Never stop growing",
-    innovation: "Think outside the box",
-    impact: "Build solutions that matter",
-    
-    favoriteQuote: "Code is poetry written in logic! 🎭",
-    coffeePerDay: "☕☕☕ (minimum requirement)",
-    debuggingStyle: "Patience + Logic + Coffee"
-};
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 🎉 **Thank You for Visiting My Digital Home!**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&width=700&lines=Ready+to+collaborate+on+your+next+big+project!;Let's+build+something+amazing+together!;Always+open+to+interesting+challenges+and+discussions!" alt="Closing Message" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=zawad1992&color=FF6B35&style=for-the-badge&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-</div>
+<img src="assets/hero.svg" width="100%" alt="Zawadul Kawum. Backend engineer and engineering lead, since 2015. A timeline drawn as a distributed trace shows six employers in sequence: IECL, Advance Business Solutions, Pharma Solutions Bangladesh, Adventure Dhaka, Nexdecade Technology and Techzu Ichicode." />
+
+<img src="assets/ticker.svg" width="100%" alt="Technologies I work with: Laravel, Spring Boot, Kafka, Kubernetes, Docker, MongoDB, Redis, PostgreSQL, WebRTC, Python, C#, Vue, Android and Node.js." />
+
+I design and run backend systems for businesses that depend on them every day: enterprise ERP in Singapore, payments across Asia, healthcare distribution in Bangladesh, and streaming platforms. I've led a team of 53 developers, and I still write the code.
+
+I'm a Software Engineer IV at Techzu Ichicode, a Singapore company, working hybrid from its Dhaka office.
+
+<img src="assets/section-impact.svg" width="100%" alt="Impact" />
+
+<img src="assets/impact.svg" width="100%" alt="1M+ payment transactions a day, 100K+ documents processed a day, 53 developers led, 10M+ government system users, 10K+ pharmacy clients served, 50K+ WhatsApp inquiries a day." />
+
+<img src="assets/section-experience.svg" width="100%" alt="Experience" />
+
+<img src="assets/charts.svg" width="100%" alt="Two charts. Years by industry: Healthcare is the largest, followed by Enterprise ERP, Government and banking, Payments and airlines, and Streaming. Years by technology: PHP, JavaScript and MySQL 10+, Laravel and MongoDB 8+, C# 7+, Redis and Android 6+, Spring Boot, PostgreSQL and Docker 5+, Node.js and Kubernetes 4+, Kafka 3+." />
+
+<img src="assets/section-career.svg" width="100%" alt="Career" />
+
+<img src="assets/role-techzu.svg" width="100%" alt="Software Engineer IV, Techzu Ichicode Pte Ltd, Dec 2024 to present" />
+
+- Architected the ERP for Singapore's largest aircon distributor, serving 10,000+ B2B clients
+- Built a WhatsApp Business integration that handles 50,000+ customer inquiries a day, 90% of them automatically
+- Developed an AI document platform with OCR search, processing 100,000+ documents a day
+- Integrated payments across 5 enterprise applications, including HitPay and AXS, with SGD 500K+ a month at 99.99% uptime
+- Built construction management software tracking 200+ active sites
+- Mentor a team of 8 engineers, with a 95% sprint completion rate
+
+<img src="assets/role-nexdecade.svg" width="100%" alt="Head of Development, Nexdecade Technology, Mar 2024 to Dec 2024" />
+
+- Led 53 developers across several stacks and delivered 25% faster after moving the teams to agile
+- Led development on the Toffee and T Sports streaming platforms, using Spring Boot, Docker and Kubernetes
+- Oversaw WebRTC video calling, plus VMS and HRM products
+- Improved system performance by 30% and cut infrastructure costs by 20%
+- Brought API gateway response times under 200 ms
+
+<img src="assets/role-adventure.svg" width="100%" alt="Asst. Manager, Payment and New Adventure Development, Adventure Dhaka Ltd, Mar 2023 to Feb 2024" />
+
+- Built a global payment platform processing 1M+ transactions a day at a 99.8% success rate, using Spring Boot, Docker, Kubernetes and Kafka
+- Integrated gateways including PayPal, Adyen, Toss Pay, KakaoPay and 2C2P across the Philippines, Korea, Japan and India
+- Led NDC airline integration, including Lufthansa, and a multi-currency global hotel booking platform
+- Migrated the monolith to microservices
+
+<img src="assets/role-pharma.svg" width="100%" alt="Asst. Manager, Application Development, Pharma Solutions Bangladesh Ltd, Nov 2017 to Feb 2023" />
+
+- Built ordering systems for 10,000+ pharmacy clients and 800+ mobile field users
+- Automated ERP processes across 20+ branches, including HRM from recruitment to payroll
+- Delivered patient and inventory management with FEFO stock logic, handling 5,000+ invoices a day
+- Built real-time IoT temperature monitoring with C# and Socket.io
+
+<img src="assets/role-earlier.svg" width="100%" alt="Earlier roles, 2015 to 2017" />
+
+- **Sr. Software Engineer, Advance Business Solutions:** business and education ERP for 50+ clients, with a 20% performance gain
+- **Software Engineer, IECL:** government systems serving 10M+ users and banking systems handling 10K+ requests a day
+
+<img src="assets/section-domains.svg" width="100%" alt="Domains" />
+
+<img src="assets/domains.svg" width="100%" alt="Six domains and the tools used in each. Payments and travel: Spring Boot, Kafka, Laravel, Vue, Docker, Kubernetes. Enterprise ERP: Laravel, CakePHP, MySQL, WhatsApp API, OCR. Healthcare and distribution: Laravel, C#, ASP.NET, Android, Ionic, Spring Boot. Streaming and real time: Spring Boot, Docker, Kubernetes, WebRTC, Node.js. Government and banking: PHP, Symfony, Node.js, Vue, Ionic, MySQL. AI and automation: Python, .NET, Laravel, Telegram API." />
+
+<img src="assets/section-specialities.svg" width="100%" alt="Specialities" />
+
+<img src="assets/specialities.svg" width="100%" alt="Specialities: system architecture, microservices, API design, payment integration, database scaling, real-time systems, performance and cost, process automation, AI integration and engineering leadership." />
+
+<img src="assets/section-stack.svg" width="100%" alt="Stack" />
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
+
+**Data**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
+
+**Real time and infrastructure**
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+
+**Frontend and mobile**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**AI**
+
+![Vision AI](https://img.shields.io/badge/Vision_AI-7C3AED?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDEyczQtNyAxMC03IDEwIDcgMTAgNy00IDctMTAgNy0xMC03LTEwLTd6Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIvPjwvc3ZnPg%3D%3D&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-0891B2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDhWM2g1TTE2IDNoNXY1TTIxIDE2djVoLTVNOCAyMUgzdi01Ii8%2BPHBhdGggZD0iTTcgOWgxME03IDEyaDEwTTcgMTVoNiIvPjwvc3ZnPg%3D%3D&logoColor=white) ![Speech Recognition](https://img.shields.io/badge/Speech_Recognition-DB2777?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjkiIHk9IjIiIHdpZHRoPSI2IiBoZWlnaHQ9IjEyIiByeD0iMyIvPjxwYXRoIGQ9Ik01IDExYTcgNyAwIDAgMCAxNCAwTTEyIDE4djQiLz48L3N2Zz4%3D&logoColor=white) ![Face Recognition](https://img.shields.io/badge/Face_Recognition-059669?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48cGF0aCBkPSJNOSAxMGguMDFNMTUgMTBoLjAxTTguNSAxNWE0LjUgNC41IDAgMCAwIDcgMCIvPjwvc3ZnPg%3D%3D&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-10A37F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDEyaDJNNyA4djhNMTEgNHYxNk0xNSA3djEwTTE5IDEwdjRNMjEgMTJoMCIvPjwvc3ZnPg%3D%3D&logoColor=white) ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+<img src="assets/section-education.svg" width="100%" alt="Education" />
+
+BSc, Asian University of Bangladesh, GPA 3.90
+
+Training: AWS Solutions Architect Associate, ISMS Internal Auditor
+
+<img src="assets/section-contact.svg" width="100%" alt="Get in touch" />
+
+I'm glad to talk about backend architecture, payments, ERP and leading engineering teams.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-zawadulkawum.com-8B5CF6?style=for-the-badge&labelColor=11162C)](https://zawadulkawum.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zawad1992-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=11162C)](https://www.linkedin.com/in/zawad1992/)
+[![Email](https://img.shields.io/badge/Email-zawad1992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=11162C)](mailto:zawad1992@gmail.com)
