@@ -32,18 +32,18 @@ ROLES = [
     ("Advance Business Solutions", "Business and education ERP", 2017.0, 2017.85, ERP),
     ("Pharma Solutions Bangladesh", "Healthcare and distribution", 2017.85, 2023.17, HEALTH),
     ("Adventure Dhaka", "Global payments and airlines", 2023.17, 2024.17, PAY),
-    ("Nexdecade Technology", "Streaming, leading 53 developers", 2024.17, 2024.95, STREAM),
+    ("Nexdecade Technology", "Toffee and T Sports, 53 developers", 2024.17, 2024.95, STREAM),
     ("Techzu Ichicode", "Enterprise ERP and AI", 2024.95, None, ERP),
 ]
 BUILDING = ["enterprise ERP", "payment platforms", "healthcare systems", "streaming platforms"]
 
 IMPACT = [
-    ("1M+", "payment transactions a day", PAY),
-    ("100K+", "documents processed a day", ERP),
-    ("53", "developers led", STREAM),
-    ("10M+", "government system users", GOV),
-    ("10K+", "pharmacy clients served", HEALTH),
-    ("50K+", "WhatsApp inquiries a day", PINK),
+    ("50M+", "Toffee OTT app downloads", "T Sports 5M+, Bangladesh", PINK),
+    ("1M+", "payment transactions a day", "Philippines, Korea, Japan, India", PAY),
+    ("53", "developers led", "Nexdecade, Bangladesh", STREAM),
+    ("10M+", "government system users", "Public sector, Bangladesh", GOV),
+    ("10K+", "pharmacy clients served", "Healthcare, Bangladesh", HEALTH),
+    ("20+", "branches automated", "Healthcare ERP, Bangladesh", ERP),
 ]
 
 INDUSTRIES = [("Healthcare", HEALTH), ("Enterprise ERP", ERP), ("Government and banking", GOV),
@@ -62,7 +62,7 @@ TICKER_COLORS = [PAY, HEALTH, ERP, GOV, CYAN, HEALTH, PAY, GOV, STREAM, ERP, STR
 
 STRIPS = [
     ("techzu", "Software Engineer IV", "Techzu Ichicode Pte Ltd", "Dec 2024 to present", "Enterprise ERP and AI", ERP, True),
-    ("nexdecade", "Head of Development", "Nexdecade Technology", "Mar 2024 to Dec 2024", "Streaming", STREAM, False),
+    ("nexdecade", "Head of Development", "Nexdecade Technology", "Mar 2024 to Dec 2024", "Toffee and T Sports", STREAM, False),
     ("adventure", "Asst. Manager, Payment Development", "Adventure Dhaka Ltd", "Mar 2023 to Feb 2024", "Payments and airlines", PAY, False),
     ("pharma", "Asst. Manager, Application Development", "Pharma Solutions Bangladesh Ltd", "Nov 2017 to Feb 2023", "Healthcare", HEALTH, False),
     ("earlier", "Software Engineer to Sr. Software Engineer", "IECL, Advance Business Solutions", "2015 to 2017", "Government, banking, ERP", GOV, False),
@@ -78,7 +78,7 @@ DOMAINS = [
      ["Laravel", "CakePHP", "MySQL", "WhatsApp API", "OCR"], ERP),
     ("Healthcare and distribution", ["Pharmacy ordering, inventory, field", "sales apps and IoT monitoring"],
      ["Laravel", "C#", "ASP.NET", "Android", "Ionic", "Spring Boot"], HEALTH),
-    ("Streaming and real time", ["OTT platforms, WebRTC video calling", "and high-traffic APIs"],
+    ("Streaming and real time", ["Toffee and T Sports OTT platforms,", "WebRTC video calling, high-traffic APIs"],
      ["Spring Boot", "Docker", "Kubernetes", "WebRTC", "Node.js"], STREAM),
     ("Government and banking", ["Public systems at scale and", "secure financial services"],
      ["PHP", "Symfony", "Node.js", "Vue", "Ionic", "MySQL"], GOV),
@@ -245,10 +245,10 @@ def hero():
 
 
 def impact():
-    gap, tile_h = 14, 138
+    gap, tile_h = 14, 166
     tile_w = (W - gap * 2) / 3
     p, defs = [], []
-    for i, (num, label, color) in enumerate(IMPACT):
+    for i, (num, label, where, color) in enumerate(IMPACT):
         x, y = (tile_w + gap) * (i % 3), (tile_h + gap) * (i // 3)
         defs.append(f'<radialGradient id="t{i}" cx="1" cy="0" r="1"><stop stop-color="{color}" stop-opacity=".42"/><stop offset="1" stop-color="{color}" stop-opacity="0"/></radialGradient>')
         box = f'x="{fmt(x + 1)}" y="{y + 1}" width="{fmt(tile_w - 2)}" height="{tile_h - 2}" rx="12"'
@@ -257,9 +257,10 @@ def impact():
         p.append(f'<rect {box} class="run" pathLength="1000" fill="none" stroke="{color}" stroke-width="3" style="animation-delay:{-i * 1.1:.1f}s"/>')
         p.append(text(num, x + 28, y + 80, 60, 800, color, opsz=96))
         p.append(text(label, x + 28, y + 114, 20, 500, PAPER, opsz=20))
+        p.append(text(where, x + 28, y + 141, 16.5, 400, MUTED, opsz=17))
     css = (".run{stroke-dasharray:130 870;animation:run 6.6s linear infinite}"
            "@keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}")
-    alt = "Impact: " + ", ".join(f"{n} {l}" for n, l, _ in IMPACT)
+    alt = "Impact: " + ", ".join(f"{n} {l} ({w})" for n, l, w, _ in IMPACT)
     save("impact.svg", W, tile_h * 2 + gap, "".join(p), alt, css, "".join(defs))
 
 

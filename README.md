@@ -2,13 +2,13 @@
 
 <img src="assets/ticker.svg" width="100%" alt="Technologies I work with: Laravel, Spring Boot, Kafka, Kubernetes, Docker, MongoDB, Redis, PostgreSQL, WebRTC, Python, C#, Vue, Android and Node.js." />
 
-I design and run backend systems for businesses that depend on them every day: enterprise ERP in Singapore, payments across Asia, healthcare distribution in Bangladesh, and streaming platforms. I've led a team of 53 developers, and I still write the code.
+I design and run backend systems for businesses that depend on them every day: enterprise ERP in Singapore, payments across Asia, healthcare distribution in Bangladesh, and streaming on Toffee, one of Bangladesh's biggest OTT platforms with 50M+ Google Play downloads, and T Sports. I've led a team of 53 developers, and I still write the code.
 
 I'm a Software Engineer IV at Techzu Ichicode, a Singapore company, working hybrid from its Dhaka office.
 
 <img src="assets/section-impact.svg" width="100%" alt="Impact" />
 
-<img src="assets/impact.svg" width="100%" alt="1M+ payment transactions a day, 100K+ documents processed a day, 53 developers led, 10M+ government system users, 10K+ pharmacy clients served, 50K+ WhatsApp inquiries a day." />
+<img src="assets/impact.svg" width="100%" alt="50M+ Toffee OTT app downloads and 5M+ T Sports downloads in Bangladesh. 1M+ payment transactions a day across the Philippines, Korea, Japan and India. 53 developers led at Nexdecade Technology. 10M+ government system users, 10K+ pharmacy clients served and 20+ branches automated in Bangladesh." />
 
 <img src="assets/section-experience.svg" width="100%" alt="Experience" />
 
@@ -19,8 +19,8 @@ I'm a Software Engineer IV at Techzu Ichicode, a Singapore company, working hybr
 <img src="assets/role-techzu.svg" width="100%" alt="Software Engineer IV, Techzu Ichicode Pte Ltd, Dec 2024 to present" />
 
 - Architected the ERP for Singapore's largest aircon distributor, serving 10,000+ B2B clients
-- Built a WhatsApp Business integration that handles 50,000+ customer inquiries a day, 90% of them automatically
-- Developed an AI document platform with OCR search, processing 100,000+ documents a day
+- Built a WhatsApp Business integration that automates customer inquiries
+- Developed an AI document platform with OCR search that automates document processing
 - Integrated payments across 5 enterprise applications, including HitPay and AXS, with SGD 500K+ a month at 99.99% uptime
 - Built construction management software tracking 200+ active sites
 - Mentor a team of 8 engineers, with a 95% sprint completion rate
@@ -28,7 +28,7 @@ I'm a Software Engineer IV at Techzu Ichicode, a Singapore company, working hybr
 <img src="assets/role-nexdecade.svg" width="100%" alt="Head of Development, Nexdecade Technology, Mar 2024 to Dec 2024" />
 
 - Led 53 developers across several stacks and delivered 25% faster after moving the teams to agile
-- Led development on the Toffee and T Sports streaming platforms, using Spring Boot, Docker and Kubernetes
+- Led development on Toffee, one of Bangladesh's biggest OTT platforms with 50M+ Google Play downloads, and T Sports with 5M+, serving millions of users with Spring Boot, Docker and Kubernetes
 - Oversaw WebRTC video calling, plus VMS and HRM products
 - Improved system performance by 30% and cut infrastructure costs by 20%
 - Brought API gateway response times under 200 ms
