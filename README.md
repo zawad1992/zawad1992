@@ -2,13 +2,17 @@
 
 <img src="assets/ticker.svg" width="100%" alt="Technologies I work with: Laravel, Spring Boot, Kafka, Kubernetes, Docker, MongoDB, Redis, PostgreSQL, WebRTC, Python, C#, Vue, Android and Node.js." />
 
-I design and run backend systems for businesses that depend on them every day: enterprise ERP in Singapore, payments across Asia, healthcare distribution in Bangladesh, and streaming on Toffee, one of Bangladesh's biggest OTT platforms with 50M+ Google Play downloads, and T Sports. I've led a team of 53 developers, and I still write the code.
+I design and run backend systems for businesses that depend on them every day: enterprise ERP in Singapore, payments across Asia, healthcare distribution in Bangladesh, and streaming on Toffee, one of Bangladesh's biggest OTT platforms with 50M+ Google Play downloads, and T Sports. I've led a team of 53 developers, and I still write the code. I've also built face recognition attendance, PCB mismatch detection and a TZone temperature gateway system, and I work with high-scale MongoDB clusters, Kubernetes and Active Directory.
 
 I'm a Software Engineer IV at Techzu Ichicode, a Singapore company, working hybrid from its Dhaka office.
 
 <img src="assets/section-impact.svg" width="100%" alt="Impact" />
 
 <img src="assets/impact.svg" width="100%" alt="50M+ Toffee OTT app downloads and 5M+ T Sports downloads in Bangladesh. 1M+ payment transactions a day across the Philippines, Korea, Japan and India. 53 developers led at Nexdecade Technology. 10M+ government system users, 10K+ pharmacy clients served and 20+ branches automated in Bangladesh." />
+
+<img src="assets/section-systems.svg" width="100%" alt="Real-world systems" />
+
+<img src="assets/systems.svg" width="100%" alt="Six real-world systems. Face recognition attendance: marks attendance by recognising faces on camera. PCB mismatch detection: flags boards that do not match during inspection. TZone temperature gateway system: my own system, with no vendor software, that decodes raw gateway data into exact records in MongoDB. High-scale MongoDB clustering: replication and sharding for large, busy datasets. Kubernetes orchestration: runs streaming and payment platforms in production. Active Directory at Pharma Solutions: central user accounts and access management." />
 
 <img src="assets/section-experience.svg" width="100%" alt="Experience" />
 
@@ -46,6 +50,7 @@ I'm a Software Engineer IV at Techzu Ichicode, a Singapore company, working hybr
 - Automated ERP processes across 20+ branches, including HRM from recruitment to payroll
 - Delivered patient and inventory management with FEFO stock logic, handling 5,000+ invoices a day
 - Built real-time IoT temperature monitoring with C# and Socket.io
+- Worked on Active Directory for central user accounts and access management
 
 <img src="assets/role-earlier.svg" width="100%" alt="Earlier roles, 2015 to 2017" />
 
@@ -54,11 +59,11 @@ I'm a Software Engineer IV at Techzu Ichicode, a Singapore company, working hybr
 
 <img src="assets/section-domains.svg" width="100%" alt="Domains" />
 
-<img src="assets/domains.svg" width="100%" alt="Six domains and the tools used in each. Payments and travel: Spring Boot, Kafka, Laravel, Vue, Docker, Kubernetes. Enterprise ERP: Laravel, CakePHP, MySQL, WhatsApp API, OCR. Healthcare and distribution: Laravel, C#, ASP.NET, Android, Ionic, Spring Boot. Streaming and real time: Spring Boot, Docker, Kubernetes, WebRTC, Node.js. Government and banking: PHP, Symfony, Node.js, Vue, Ionic, MySQL. AI and automation: Python, .NET, Laravel, Telegram API." />
+<img src="assets/domains.svg" width="100%" alt="Six domains and the tools used in each. Payments and travel: Spring Boot, Kafka, Laravel, Vue, Docker, Kubernetes. Enterprise ERP: Laravel, CakePHP, MySQL, WhatsApp API, OCR. Healthcare and distribution: Laravel, C#, ASP.NET, Android, Ionic, Spring Boot, Active Directory. Streaming and real time: Spring Boot, Docker, Kubernetes, WebRTC, Node.js. Government and banking: PHP, Symfony, Node.js, Vue, Ionic, MySQL. AI and automation, including face recognition and PCB mismatch detection: Python, .NET, Laravel, Telegram API." />
 
 <img src="assets/section-specialities.svg" width="100%" alt="Specialities" />
 
-<img src="assets/specialities.svg" width="100%" alt="Specialities: system architecture, microservices, API design, payment integration, database scaling, real-time systems, performance and cost, process automation, AI integration and engineering leadership." />
+<img src="assets/specialities.svg" width="100%" alt="Specialities: system architecture, microservices on Kubernetes, API design, payment integration, high-scale MongoDB clustering, real-time systems, performance and cost, process automation, AI integration and engineering leadership." />
 
 <img src="assets/section-stack.svg" width="100%" alt="Stack" />
 
@@ -76,7 +81,7 @@ I'm a Software Engineer IV at Techzu Ichicode, a Singapore company, working hybr
 
 **Real time and infrastructure**
 
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzbDQgNkg4ek0xMiA5djRNNSAxN3YtNGgxNHY0Ii8%2BPGNpcmNsZSBjeD0iNSIgY3k9IjE5LjUiIHI9IjIiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjE5LjUiIHI9IjIiLz48L3N2Zz4%3D&logoColor=white)
 
 **Frontend and mobile**
 

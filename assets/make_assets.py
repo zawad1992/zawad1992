@@ -68,8 +68,18 @@ STRIPS = [
     ("earlier", "Software Engineer to Sr. Software Engineer", "IECL, Advance Business Solutions", "2015 to 2017", "Government, banking, ERP", GOV, False),
 ]
 
-SECTIONS = {"impact": "impact", "experience": "experience", "career": "career", "domains": "domains",
+SECTIONS = {"impact": "impact", "systems": "real_world_systems", "experience": "experience", "career": "career", "domains": "domains",
             "specialities": "specialities", "stack": "stack", "education": "education", "contact": "get_in_touch"}
+
+SYSTEMS = [
+    ("face", ["Face recognition", "attendance"], ["Marks attendance by recognising", "faces on camera"], CYAN),
+    ("pcb", ["PCB mismatch", "detection"], ["Flags boards that do not match", "during inspection"], HEALTH),
+    ("gateway", ["TZone temperature", "gateway system"],
+     ["Own system, no vendor software:", "decodes raw gateway data into", "exact records in MongoDB"], PAY),
+    ("cluster", ["High-scale MongoDB", "clustering"], ["Replication and sharding for", "large, busy datasets"], ERP),
+    ("wheel", ["Kubernetes", "orchestration"], ["Runs streaming and payment", "platforms in production"], GOV),
+    ("directory", ["Active Directory", "at Pharma Solutions"], ["Central user accounts", "and access management"], STREAM),
+]
 
 DOMAINS = [
     ("Payments and travel", ["Multi-gateway payments, NDC airline", "integration and global hotel booking"],
@@ -77,25 +87,25 @@ DOMAINS = [
     ("Enterprise ERP", ["Distribution, construction, HRM", "and business process automation"],
      ["Laravel", "CakePHP", "MySQL", "WhatsApp API", "OCR"], ERP),
     ("Healthcare and distribution", ["Pharmacy ordering, inventory, field", "sales apps and IoT monitoring"],
-     ["Laravel", "C#", "ASP.NET", "Android", "Ionic", "Spring Boot"], HEALTH),
+     ["Laravel", "C#", "ASP.NET", "Android", "Ionic", "Spring Boot", "Active Directory"], HEALTH),
     ("Streaming and real time", ["Toffee and T Sports OTT platforms,", "WebRTC video calling, high-traffic APIs"],
      ["Spring Boot", "Docker", "Kubernetes", "WebRTC", "Node.js"], STREAM),
     ("Government and banking", ["Public systems at scale and", "secure financial services"],
      ["PHP", "Symfony", "Node.js", "Vue", "Ionic", "MySQL"], GOV),
-    ("AI and automation", ["Document OCR, vision extraction,", "speech and face recognition"],
+    ("AI and automation", ["Face recognition, PCB mismatch", "detection, OCR and on-device speech"],
      ["Python", ".NET", "Laravel", "Telegram API"], CYAN),
 ]
 
 SPECIALITIES = [
     ("System architecture", "ERP, payment and streaming platforms", ERP),
-    ("Microservices", "Monolith migrations, Spring Boot and Kafka", PAY),
+    ("Microservices", "Kubernetes, Spring Boot, Kafka, monolith migrations", PAY),
     ("API design", "REST and SOAP, gateways under 200 ms", GOV),
     ("Payment integration", "PayPal, Adyen, Toss Pay, KakaoPay, 2C2P, HitPay, AXS", PAY),
-    ("Database scaling", "MongoDB sharding, replication, Redis caching", HEALTH),
-    ("Real-time systems", "WebRTC, Socket.io, WhatsApp, IoT monitoring", STREAM),
+    ("Database scaling", "High-scale MongoDB clusters, Redis caching", HEALTH),
+    ("Real-time systems", "WebRTC, Socket.io, WhatsApp, IoT temperature gateways", STREAM),
     ("Performance and cost", "30% faster systems, 20% lower infrastructure cost", ERP),
     ("Process automation", "ERP and HRM across 20+ branches", HEALTH),
-    ("AI integration", "OCR search, vision extraction, on-device speech", CYAN),
+    ("AI integration", "Face recognition, PCB mismatch detection, OCR", CYAN),
     ("Engineering leadership", "Led 53 developers, agile delivery, mentoring", PINK),
 ]
 
@@ -376,16 +386,26 @@ def ticker():
     save("ticker.svg", W, h, body, "Technologies: " + ", ".join(TICKER), css, defs)
 
 
+def card(i, x, y, w, h, color, gid="d"):
+    defs = f'<radialGradient id="{gid}{i}" cx="1" cy="0" r="1"><stop stop-color="{color}" stop-opacity=".36"/><stop offset="1" stop-color="{color}" stop-opacity="0"/></radialGradient>'
+    box = f'x="{x + 1}" y="{y + 1}" width="{w - 2}" height="{h - 2}" rx="12"'
+    return defs, (f'<rect {box} fill="{PANEL}"/><rect {box} fill="url(#{gid}{i})"/>'
+                  f'<rect {box} fill="none" stroke="{color}" stroke-opacity=".45" stroke-width="1.5"/>'
+                  f'<rect {box} class="run" pathLength="1000" fill="none" stroke="{color}" stroke-width="3" style="animation-delay:{-i * 1.2:.1f}s"/>')
+
+
+RUN_CSS = (".run{stroke-dasharray:120 880;animation:run 7.2s linear infinite}"
+           "@keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}")
+
+
 def domains():
     gap, card_w, card_h = 14, 493, 204
     p, defs = [], []
     for i, (name, lines, tools, color) in enumerate(DOMAINS):
         x, y = (card_w + gap) * (i % 2), (card_h + gap) * (i // 2)
-        defs.append(f'<radialGradient id="d{i}" cx="1" cy="0" r="1"><stop stop-color="{color}" stop-opacity=".36"/><stop offset="1" stop-color="{color}" stop-opacity="0"/></radialGradient>')
-        box = f'x="{x + 1}" y="{y + 1}" width="{card_w - 2}" height="{card_h - 2}" rx="12"'
-        p.append(f'<rect {box} fill="{PANEL}"/><rect {box} fill="url(#d{i})"/>')
-        p.append(f'<rect {box} fill="none" stroke="{color}" stroke-opacity=".45" stroke-width="1.5"/>')
-        p.append(f'<rect {box} class="run" pathLength="1000" fill="none" stroke="{color}" stroke-width="3" style="animation-delay:{-i * 1.2:.1f}s"/>')
+        d, shape_ = card(i, x, y, card_w, card_h, color)
+        defs.append(d)
+        p.append(shape_)
         p.append(text(name, x + 26, y + 44, 26, 700, color, opsz=27))
         for j, line in enumerate(lines):
             p.append(text(line, x + 26, y + 78 + j * 26, 19, 400, PAPER, opsz=19))
@@ -397,10 +417,124 @@ def domains():
             p.append(f'<rect x="{fmt(cx)}" y="{cy}" width="{fmt(tw)}" height="27" rx="7" fill="{color}" fill-opacity=".14" stroke="{color}" stroke-opacity=".55"/>')
             p.append(mono(tool, cx + 11, cy + 19, 15, 500, PAPER))
             cx += tw + 8
-    css = (".run{stroke-dasharray:120 880;animation:run 7.2s linear infinite}"
-           "@keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}")
+    css = RUN_CSS
     alt = "Domains: " + "; ".join(f"{n}, using {', '.join(t)}" for n, _, t, _ in DOMAINS)
     save("domains.svg", W, card_h * 3 + gap * 2, "".join(p), alt, css, "".join(defs))
+
+
+def motif_face(cx, cy, c):
+    s = f'fill="none" stroke="{c}" stroke-width="3" stroke-linecap="round"'
+    brackets = "".join(f'<path d="M{cx + a * 66} {cy + b * 44}V{cy + b * 66}H{cx + a * 44}" {s}/>' for a in (-1, 1) for b in (-1, 1))
+    face = (f'<ellipse cx="{cx}" cy="{cy - 4}" rx="30" ry="38" fill="{c}" fill-opacity=".1" stroke="{PAPER}" stroke-width="2.5"/>'
+            f'<circle cx="{cx - 12}" cy="{cy - 12}" r="3.5" fill="{PAPER}"/><circle cx="{cx + 12}" cy="{cy - 12}" r="3.5" fill="{PAPER}"/>'
+            f'<path d="M{cx - 11} {cy + 13}q11 9 22 0" fill="none" stroke="{PAPER}" stroke-width="2.5" stroke-linecap="round"/>')
+    scan = f'<rect class="scany" x="{cx - 58}" y="{cy - 1.5}" width="116" height="3" rx="1.5" fill="{c}"/>'
+    return brackets + face + scan
+
+
+def motif_pcb(cx, cy, c, flag):
+    x, y = cx - 72, cy - 56
+    p = [f'<rect x="{x}" y="{y}" width="144" height="112" rx="8" fill="{c}" fill-opacity=".1" stroke="{c}" stroke-width="2.5"/>']
+    for d in ("M-72 -30H-46V-14H-22", "M-72 28H-48V10H-22", "M22 -14H44V-34H72", "M0 -24V-56", "M0 24V56", "M22 12H72"):
+        p.append(f'<path transform="translate({cx} {cy})" d="{d}" fill="none" stroke="{c}" stroke-opacity=".75" stroke-width="2"/>')
+    p.append(f'<rect x="{cx - 22}" y="{cy - 24}" width="44" height="48" rx="4" fill="{PANEL}" stroke="{PAPER}" stroke-width="2.5"/>')
+    for ax, ay in ((-46, -30), (-48, 28), (44, -34)):
+        p.append(f'<circle cx="{cx + ax}" cy="{cy + ay}" r="4.5" fill="{c}"/>')
+    fx, fy = cx + 48, cy + 12
+    p.append(f'<rect x="{fx - 7}" y="{fy - 7}" width="14" height="14" rx="3" fill="{flag}"/>')
+    p.append(f'<rect class="ping" x="{fx - 7}" y="{fy - 7}" width="14" height="14" rx="3" fill="none" stroke="{flag}" stroke-width="2"/>')
+    p.append(f'<rect class="scanx" x="{cx - 1.5}" y="{y + 4}" width="3" height="104" rx="1.5" fill="{PAPER}" fill-opacity=".8"/>')
+    return "".join(p)
+
+
+def motif_cluster(cx, cy, c):
+    nodes = [(cx, cy - 46, "P", 25), (cx - 56, cy + 40, "S", 21), (cx + 56, cy + 40, "S", 21)]
+    p = []
+    for i, (nx, ny, _, _) in enumerate(nodes[1:]):
+        line = f'x1="{cx}" y1="{cy - 46}" x2="{nx}" y2="{ny}"'
+        p.append(f'<line {line} stroke="{c}" stroke-opacity=".5" stroke-width="2.5"/>')
+        p.append(f'<line {line} class="pkt" pathLength="100" stroke="{PAPER}" stroke-width="4" stroke-linecap="round" style="animation-delay:{-i * .7:.1f}s"/>')
+    p.append(f'<line x1="{cx - 56}" y1="{cy + 40}" x2="{cx + 56}" y2="{cy + 40}" stroke="{c}" stroke-opacity=".35" stroke-width="2" stroke-dasharray="5 6"/>')
+    for i, (nx, ny, label, r) in enumerate(nodes):
+        p.append(f'<circle cx="{nx}" cy="{ny}" r="{r}" fill="{PANEL}"/>')
+        p.append(f'<circle cx="{nx}" cy="{ny}" r="{r}" fill="{c}" fill-opacity="{.3 if not i else .14}" stroke="{c}" stroke-width="2.5"/>')
+        p.append(mono(label, nx, ny + 6.5, 19, 700, PAPER, anchor="middle"))
+    return "".join(p)
+
+
+def motif_wheel(cx, cy, c):
+    pts = [(cx + 62 * math.sin(i * 2 * math.pi / 7), cy - 62 * math.cos(i * 2 * math.pi / 7)) for i in range(7)]
+    ring = " ".join(f"{px:.1f},{py:.1f}" for px, py in pts)
+    p = [f'<polygon points="{ring}" fill="{c}" fill-opacity=".1" stroke="{c}" stroke-width="2.5" stroke-linejoin="round"/>']
+    for px, py in pts:
+        p.append(f'<line x1="{cx}" y1="{cy}" x2="{px:.1f}" y2="{py:.1f}" stroke="{c}" stroke-opacity=".65" stroke-width="2.5"/>')
+    p.append(f'<circle cx="{cx}" cy="{cy}" r="16" fill="{PANEL}" stroke="{PAPER}" stroke-width="2.5"/>')
+    for px, py in pts:
+        p.append(f'<circle cx="{px:.1f}" cy="{py:.1f}" r="8" fill="{c}"/>')
+    return f'<g class="spin" style="transform-origin:{cx}px {cy}px">{"".join(p)}</g>'
+
+
+def motif_gateway(cx, cy, c):
+    p = []
+    for ax in (cx - 24, cx + 24):
+        p.append(f'<line x1="{ax}" y1="{cy - 62}" x2="{ax}" y2="{cy - 78}" stroke="{c}" stroke-width="3" stroke-linecap="round"/>')
+    p.append(f'<rect x="{cx - 40}" y="{cy - 62}" width="80" height="24" rx="6" fill="{c}" fill-opacity=".14" stroke="{c}" stroke-width="2.5"/>')
+    for i in range(3):
+        p.append(f'<circle cx="{cx - 18 + i * 18}" cy="{cy - 50}" r="3.5" fill="{PAPER}"/>')
+    p.append(f'<circle class="ping" cx="{cx + 24}" cy="{cy - 78}" r="3" fill="none" stroke="{c}" stroke-width="2"/>')
+    for y1, y2 in ((cy - 38, cy - 20), (cy + 10, cy + 28)):
+        p.append(f'<line x1="{cx}" y1="{y1}" x2="{cx}" y2="{y2}" stroke="{c}" stroke-opacity=".5" stroke-width="2.5"/>')
+        p.append(f'<line x1="{cx}" y1="{y1}" x2="{cx}" y2="{y2}" class="pkt" pathLength="100" stroke="{PAPER}" stroke-width="4" stroke-linecap="round"/>')
+    p.append(f'<rect x="{cx - 70}" y="{cy - 20}" width="140" height="30" rx="6" fill="{PANEL}" stroke="{PAPER}" stroke-width="2"/>')
+    p.append(mono("54 5A 24 24", cx, cy + 0.5, 16, 600, PAPER, anchor="middle"))
+    for i in range(3):
+        p.append(f'<rect x="{cx - 70 + i * 48}" y="{cy + 28}" width="44" height="28" rx="5" fill="{c}" fill-opacity="{.55 if not i else .22}" stroke="{c}" stroke-width="2"/>')
+    return "".join(p)
+
+
+def motif_directory(cx, cy, c):
+    ous = [cx - 48, cx + 48]
+    users = [cx - 72, cx - 24, cx + 24, cx + 72]
+    p = []
+    for i, ox in enumerate(ous):
+        line = f'x1="{cx}" y1="{cy - 44}" x2="{ox}" y2="{cy - 2}"'
+        p.append(f'<line {line} stroke="{c}" stroke-opacity=".6" stroke-width="2.5"/>')
+        p.append(f'<line {line} class="pkt" pathLength="100" stroke="{PAPER}" stroke-width="4" stroke-linecap="round" style="animation-delay:{-i * .7:.1f}s"/>')
+    for i, ux in enumerate(users):
+        p.append(f'<line x1="{ous[i // 2]}" y1="{cy + 12}" x2="{ux}" y2="{cy + 46}" stroke="{c}" stroke-opacity=".6" stroke-width="2.5"/>')
+    p.append(f'<polygon points="{cx},{cy - 76} {cx + 28},{cy - 34} {cx - 28},{cy - 34}" fill="{c}" fill-opacity=".3" stroke="{c}" stroke-width="2.5" stroke-linejoin="round"/>')
+    for ox in ous:
+        p.append(f'<rect x="{ox - 22}" y="{cy - 12}" width="44" height="24" rx="6" fill="{PANEL}" stroke="{PAPER}" stroke-width="2.5"/>')
+    for ux in users:
+        p.append(f'<circle cx="{ux}" cy="{cy + 52}" r="10" fill="{c}"/>')
+    return "".join(p)
+
+
+def systems():
+    gap, card_w, card_h = 14, 493, 196
+    motifs = {"face": motif_face, "pcb": lambda cx, cy, c: motif_pcb(cx, cy, c, PAY),
+              "cluster": motif_cluster, "wheel": motif_wheel,
+              "gateway": motif_gateway, "directory": motif_directory}
+    p, defs = [], []
+    for i, (kind, title, lines, color) in enumerate(SYSTEMS):
+        x, y = (card_w + gap) * (i % 2), (card_h + gap) * (i // 2)
+        d, shape_ = card(i, x, y, card_w, card_h, color, "y")
+        defs.append(d)
+        p.append(shape_)
+        for j, line in enumerate(title):
+            p.append(text(line, x + 26, y + 50 + j * 31, 26, 700, color, opsz=27))
+        for j, line in enumerate(lines):
+            p.append(text(line, x + 26, y + 122 - (len(lines) - 2) * 10 + j * 26, 18, 400, PAPER, opsz=18))
+        p.append(motifs[kind](x + card_w - 100, y + card_h // 2, color))
+    css = (RUN_CSS +
+           ".scany{animation:sy 3.2s ease-in-out infinite alternate}@keyframes sy{from{transform:translateY(-52px)}to{transform:translateY(52px)}}"
+           ".scanx{animation:sx 4.4s ease-in-out infinite alternate}@keyframes sx{from{transform:translateX(-64px)}to{transform:translateX(64px)}}"
+           ".ping{transform-box:fill-box;transform-origin:center;animation:ping 2.2s ease-out infinite}"
+           "@keyframes ping{from{transform:scale(1);opacity:.9}to{transform:scale(3);opacity:0}}"
+           ".pkt{stroke-dasharray:1 99;animation:pkt 1.4s linear infinite}@keyframes pkt{from{stroke-dashoffset:0}to{stroke-dashoffset:-100}}"
+           ".spin{animation:spin 28s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}")
+    alt = "Real-world systems: " + "; ".join(f"{' '.join(t)}: {' '.join(l)}" for _, t, l, _ in SYSTEMS)
+    save("systems.svg", W, card_h * 3 + gap * 2, "".join(p), alt, css, "".join(defs))
 
 
 def specialities():
@@ -427,6 +561,7 @@ def specialities():
 
 hero()
 impact()
+systems()
 charts()
 strips()
 sections()
